@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="CMS_Kentico_Kickstart" id="818de57e-eb18-4d13-975e-4772558373a1" version="4.6.0">
+  <folder name="Strategy" id="4f4aeb9f-630a-45a0-9155-21a91dc83f9a" type="strategy"/>
+  <folder name="Business" id="c2fb3c8a-a78f-4da3-8c28-d39d097d7c08" type="business"/>
+  <folder name="Application" id="81c902d9-016f-4dd2-b997-84b908fcb9ae" type="application"/>
+  <folder name="Technology &amp; Physical" id="91bdcae0-8955-460c-b14f-fa1518e0e77c" type="technology"/>
+  <folder name="Motivation" id="6531dba4-0502-43d4-bcc2-aeb76bbb0800" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="216ce7ab-8062-4636-9ee9-40dd2aaab1e3" type="implementation_migration"/>
+  <folder name="Other" id="97fcd56d-135a-473a-a509-d2c5baa95d91" type="other"/>
+  <folder name="Relations" id="60c00f99-a47b-4a8a-8574-15c27a2bba72" type="relations"/>
+  <folder name="Views" id="0b60ba9b-c7dd-4cb9-9b61-595a22437e80" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="9dcaaddc-253a-4252-b24e-2fb1200942ef"/>
+  </folder>
+</archimate:model>
