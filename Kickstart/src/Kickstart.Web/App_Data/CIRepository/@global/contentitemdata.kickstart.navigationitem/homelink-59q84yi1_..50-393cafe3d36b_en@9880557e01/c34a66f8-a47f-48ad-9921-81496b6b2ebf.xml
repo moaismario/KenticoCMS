@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.navigationitem>
+  <ContentItemDataCommonDataID>
+    <GUID>6bd36f5f-ad1c-413e-b850-393cafe3d36b</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>HomeLink-59q84yi1</CodeName>
+      <GUID>47532dc9-db73-40a4-9cf8-1fb8dfce9a4f</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>c34a66f8-a47f-48ad-9921-81496b6b2ebf</ContentItemDataGUID>
+  <NavigationItemTarget>
+    <![CDATA[[{"Identifier":"1a33407d-3685-4545-9a9c-5491f1022728"}]]]>
+  </NavigationItemTarget>
+  <NavigationItemTitle>Home</NavigationItemTitle>
+</contentitemdata.kickstart.navigationitem>

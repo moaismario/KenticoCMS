@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpagescope>
+  <WebPageScopeGUID>c784b110-80e1-4c12-83ca-1d614d512a49</WebPageScopeGUID>
+  <WebPageScopeIncludeChildren>False</WebPageScopeIncludeChildren>
+  <WebPageScopeWebsiteChannelID>
+    <GUID>9f83ed88-c279-41e2-ac8b-ec6c12728133</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>dfe37893-ef84-4fe4-8208-52b600de5a38</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageScopeWebsiteChannelID>
+</cms.webpagescope>

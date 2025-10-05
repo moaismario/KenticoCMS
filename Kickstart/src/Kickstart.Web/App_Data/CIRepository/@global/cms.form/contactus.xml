@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.form>
+  <FormBuilderLayout>
+<![CDATA[
+{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "95cad574-4596-4a9e-9758-9f2d0a9d4ef1",
+              "formComponents": [
+                {
+                  "identifier": "445f8a89-0d14-4da8-b25f-be19c2f337ee"
+                },
+                {
+                  "identifier": "d6439d69-1c01-4015-ac0e-285bba58fae0"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}
+]]>
+  </FormBuilderLayout>
+  <FormClassID>
+    <CodeName>BizForm.ContactUs</CodeName>
+    <GUID>64c97edf-1502-4277-a99e-128f8f186752</GUID>
+    <ObjectType>cms.formclass</ObjectType>
+  </FormClassID>
+  <FormDisplayName>Contact us</FormDisplayName>
+  <FormGUID>ee34d9d4-ae5f-44fb-87da-160732ee7ded</FormGUID>
+  <FormItems>0</FormItems>
+  <FormLogActivity>True</FormLogActivity>
+  <FormName>ContactUs</FormName>
+</cms.form>

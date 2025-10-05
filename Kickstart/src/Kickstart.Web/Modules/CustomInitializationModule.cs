@@ -19,8 +19,6 @@ namespace Kickstart.Web.Modules
 
             var assetsProvider = AzureStorageProvider.Create();
 
-            assetsProvider.CustomRootPath = "kentico-kickstart-app";
-
             assetsProvider.PublicExternalFolderObject = true;
 
             StorageHelper.MapStoragePath("~/assets", assetsProvider);

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>Home-ricxg7mq</CodeName>
+    <GUID>1a33407d-3685-4545-9a9c-5491f1022728</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2025-09-26 11:51:03Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>b1a2ea14-8949-472c-97ed-8e820995b29b</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2025-09-26 14:13:00Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemCommonDataVisualBuilderTemplateConfiguration>
+    <![CDATA[{"identifier":"Kickstart.LandingPagePageTemplate","properties":null,"fieldIdentifiers":{}}]]>
+  </ContentItemCommonDataVisualBuilderTemplateConfiguration>
+  <ContentItemCommonDataVisualBuilderWidgets>
+    <![CDATA[{"editableAreas":[{"identifier":"areaMain","sections":[{"identifier":"63bc2dd6-ef29-4bd4-857f-7b9a8a4a436a","type":"Kentico.DefaultSection","properties":null,"zones":[{"identifier":"aaec09b6-256f-41e3-98eb-27af3f344322","widgets":[{"identifier":"258f9662-58fa-46a6-b24d-e7644f0bba43","type":"Kentico.Widget.RichText","variants":[{"identifier":"cd600853-7990-45f6-97c3-84a58685c279","properties":{"content":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><table style=\"width: 100%\"><tbody><tr><td style=\"width: 50%\">Lorem</td><td style=\"width: 50%\">Ipsum</td></tr><tr><td style=\"width: 50%\"><br></td><td style=\"width: 50%\"><br></td></tr></tbody></table>"},"fieldIdentifiers":{"content":"62f083ff-40db-455d-9c5a-17ff06dfc9db"}}]}]}],"fieldIdentifiers":{}}]}]}]]>
+  </ContentItemCommonDataVisualBuilderWidgets>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>24e4c453-62d5-4609-b6fe-d32450104e2e</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>a3a072b2-94f6-4fac-baee-a3bb5fe792cd</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>b1a2ea14-8949-472c-97ed-8e820995b29b</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>WelcomeSlogan-u2u5c0h0</CodeName>
+        <GUID>a1d2a3be-78fa-4f23-8367-2b1699173ae7</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

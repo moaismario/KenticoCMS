@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Slogan</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="accdb60f-e24b-4cc5-becc-bd76700950a7" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="d667262b-1d37-4f76-916e-77387a317828" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="c22ced8e-c01a-4ad1-983e-b27f1fdabd77" isunique="true" system="true" />
+      <field column="SloganText" columnprecision="0" columnsize="500" columntype="text" enabled="true" guid="98f22193-9ad4-423b-bfb0-635ee4bb64c6" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Slogan</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>9edfb1f9-dc9a-48fe-a266-a93eaa08c2e9</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-a-lowercase</ClassIconClass>
+  <ClassName>Kickstart.Slogan</ClassName>
+  <ClassShortName>KickstartSlogan</ClassShortName>
+  <ClassTableName>Kickstart_Slogan</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>

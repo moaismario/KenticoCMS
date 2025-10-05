@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>MainNavigation-4zl5r0k6</CodeName>
+    <GUID>bcd0fc29-fcf3-41c5-845c-d25c49861a0e</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2025-09-26 15:55:18Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>47592d53-1bd6-48e4-a383-1aaa685f96f1</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2025-09-26 15:55:18Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>f853ef8e-4e1d-4d35-82c8-f7860c4d3525</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>f507a2de-f121-4070-ace0-59f374b92866</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>47592d53-1bd6-48e4-a383-1aaa685f96f1</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>HomeLink-59q84yi1</CodeName>
+        <GUID>47532dc9-db73-40a4-9cf8-1fb8dfce9a4f</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>f853ef8e-4e1d-4d35-82c8-f7860c4d3525</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>d7020ed0-23ec-4a23-97ff-7b48b8db976c</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>47592d53-1bd6-48e4-a383-1aaa685f96f1</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>ContactUsLink-02fghgv7</CodeName>
+        <GUID>9026bfe6-fa10-48da-941b-ab2a44815533</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Navication item</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="7ca442fd-79c7-44dc-b935-45d8c1c2da8c" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="e90de02d-d60b-4573-a51f-af096b148209" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="a0e8bd67-d84a-4e1a-8bd4-0174999ba7ab" isunique="true" system="true" />
+      <field column="NavigationItemTitle" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="46ac753a-fe96-410a-a49e-1c31a48e95d9" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Title</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+      <field allowempty="true" column="NavigationItemTarget" columnprecision="0" columntype="contentitemreference" enabled="true" guid="8e6298a4-25e4-483f-930c-1652cffe1407" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Target</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <AllowedContentItemTypeIdentifiers>
+            <![CDATA[["bf624aaf-b4fd-4acb-acee-3d2bbccd70fc"]]]>
+          </AllowedContentItemTypeIdentifiers>
+          <controlname>Kentico.Administration.ContentItemSelector</controlname>
+          <MaximumItems>1</MaximumItems>
+          <MinimumItems>1</MinimumItems>
+          <SelectionType>contentTypes</SelectionType>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>cdc18748-a3e3-4d6e-a986-26df22128aa7</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-chain</ClassIconClass>
+  <ClassName>Kickstart.NavigationItem</ClassName>
+  <ClassShortName>KickstartNavigationItem</ClassShortName>
+  <ClassTableName>Kickstart_NavigationItem</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>

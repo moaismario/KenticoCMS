@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpagescopecontenttype>
+  <Parent>
+    <GUID>c784b110-80e1-4c12-83ca-1d614d512a49</GUID>
+    <ObjectType>cms.webpagescope</ObjectType>
+    <Parent>
+      <GUID>9f83ed88-c279-41e2-ac8b-ec6c12728133</GUID>
+      <ObjectType>cms.websitechannel</ObjectType>
+      <Parent>
+        <CodeName>KickstartPages</CodeName>
+        <GUID>dfe37893-ef84-4fe4-8208-52b600de5a38</GUID>
+        <ObjectType>cms.channel</ObjectType>
+      </Parent>
+    </Parent>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.contenttype_Kickstart.LandingPage">
+      <WebPageScopeContentTypeContentTypeID>
+        <CodeName>Kickstart.LandingPage</CodeName>
+        <GUID>bf624aaf-b4fd-4acb-acee-3d2bbccd70fc</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </WebPageScopeContentTypeContentTypeID>
+    </Binding>
+  </Bindings>
+</cms.webpagescopecontenttype>

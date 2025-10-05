@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>HomeLink-59q84yi1</CodeName>
+    <GUID>47532dc9-db73-40a4-9cf8-1fb8dfce9a4f</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2025-09-26 15:55:18Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>6bd36f5f-ad1c-413e-b850-393cafe3d36b</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2025-09-26 17:10:54Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>8e6298a4-25e4-483f-930c-1652cffe1407</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>f9d9d8b4-1eb1-4d28-92c2-4e1af6762ae2</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>6bd36f5f-ad1c-413e-b850-393cafe3d36b</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Home-ricxg7mq</CodeName>
+        <GUID>1a33407d-3685-4545-9a9c-5491f1022728</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

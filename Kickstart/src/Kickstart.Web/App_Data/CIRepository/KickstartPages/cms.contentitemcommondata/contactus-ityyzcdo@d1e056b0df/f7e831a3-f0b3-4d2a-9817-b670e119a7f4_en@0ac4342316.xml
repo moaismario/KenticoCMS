@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>ContactUs-ityyzcdo</CodeName>
+    <GUID>75e3a04e-6afa-41a7-9c52-3d5cf50c27b9</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2025-09-26 14:48:55Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>f7e831a3-f0b3-4d2a-9817-b670e119a7f4</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2025-09-26 14:59:26Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemCommonDataVisualBuilderTemplateConfiguration>
+    <![CDATA[{"identifier":"Kickstart.LandingPagePageTemplate","properties":null,"fieldIdentifiers":{}}]]>
+  </ContentItemCommonDataVisualBuilderTemplateConfiguration>
+  <ContentItemCommonDataVisualBuilderWidgets>
+    <![CDATA[{"editableAreas":[{"identifier":"areaMain","sections":[{"identifier":"cc9a2d69-dfbe-4d75-92ce-d3ed8ff359bd","type":"Kentico.DefaultSection","properties":null,"zones":[{"identifier":"bcdd30be-5c20-4ab9-a3be-ea4fb04f0089","widgets":[{"identifier":"93f39705-e547-4354-af02-faf1090e807c","type":"Kentico.Widget.RichText","variants":[{"identifier":"9e244e24-ffd6-439e-af25-f40a04a77c24","properties":{"content":"<pre class=\"language-html\" tabindex=\"0\"><code class=\"js-code language-html\">Need to send us a message?\n\nUse this form, and we'll get back to you at the provided email address!</code></pre>"},"fieldIdentifiers":{"content":"494d72c9-3c8b-4c06-b503-e432c788be22"}}]},{"identifier":"e55ecd2c-b1b2-448a-a565-5b8acc0729a3","type":"Kentico.FormWidget","variants":[{"identifier":"29f66e3a-9d9d-42b6-b81f-943b7ec70d05","properties":{"selectedForm":[{"objectGuid":null,"objectCodeName":"ContactUs"}],"afterSubmitMode":"message","afterSubmitDisplayText":"Thanks! We’ll get back to you soon!","afterSubmitRedirectToUrl":null,"afterSubmitRedirectToWebPage":[]},"fieldIdentifiers":{"selectedForm":"e6ececeb-8bec-40f3-a206-f4c3b36e52ce","afterSubmitMode":"088a1f3f-234a-46b8-b912-07391daa17dd","afterSubmitDisplayText":"fefb0644-f953-42fc-affa-cb3975e4b611","afterSubmitRedirectToUrl":"0b610878-a99a-4554-9886-9310464e3cd0","afterSubmitRedirectToWebPage":"5ac8ad5d-acb5-43de-a0bf-f64aafe833dd"}}]}]}],"fieldIdentifiers":{}}]}]}]]>
+  </ContentItemCommonDataVisualBuilderWidgets>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>24e4c453-62d5-4609-b6fe-d32450104e2e</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>46b5278f-f5df-4cd6-b809-90e780aa60fc</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>f7e831a3-f0b3-4d2a-9817-b670e119a7f4</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>WelcomeSlogan-u2u5c0h0</CodeName>
+        <GUID>a1d2a3be-78fa-4f23-8367-2b1699173ae7</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageitem>
+  <WebPageItemContentItemID>
+    <CodeName>ContactUs-ityyzcdo</CodeName>
+    <GUID>75e3a04e-6afa-41a7-9c52-3d5cf50c27b9</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </WebPageItemContentItemID>
+  <WebPageItemGUID>0918a899-1f05-4987-b331-a406c265c962</WebPageItemGUID>
+  <WebPageItemName>ContactUs-ityyzcdo</WebPageItemName>
+  <WebPageItemOrder>1</WebPageItemOrder>
+  <WebPageItemTreePath>/Contact_us</WebPageItemTreePath>
+  <WebPageItemWebsiteChannelID>
+    <GUID>9f83ed88-c279-41e2-ac8b-ec6c12728133</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>dfe37893-ef84-4fe4-8208-52b600de5a38</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageItemWebsiteChannelID>
+</cms.webpageitem>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemChannelID>
+    <CodeName>KickstartPages</CodeName>
+    <GUID>dfe37893-ef84-4fe4-8208-52b600de5a38</GUID>
+    <ObjectType>cms.channel</ObjectType>
+  </ContentItemChannelID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.LandingPage</CodeName>
+    <GUID>bf624aaf-b4fd-4acb-acee-3d2bbccd70fc</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>75e3a04e-6afa-41a7-9c52-3d5cf50c27b9</ContentItemGUID>
+  <ContentItemIsReusable>False</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>ContactUs-ityyzcdo</ContentItemName>
+</cms.contentitem>

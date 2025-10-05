@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.landingpage>
+  <ContentItemDataCommonDataID>
+    <GUID>f7e831a3-f0b3-4d2a-9817-b670e119a7f4</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>ContactUs-ityyzcdo</CodeName>
+      <GUID>75e3a04e-6afa-41a7-9c52-3d5cf50c27b9</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>00c96f96-b82b-49d8-95a8-85e5cc72dd82</ContentItemDataGUID>
+  <LandingPageSlogan>
+    <![CDATA[[{"Identifier":"a1d2a3be-78fa-4f23-8367-2b1699173ae7"}]]]>
+  </LandingPageSlogan>
+</contentitemdata.kickstart.landingpage>

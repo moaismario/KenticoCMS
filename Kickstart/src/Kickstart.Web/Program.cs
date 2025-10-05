@@ -1,15 +1,14 @@
-﻿using Azure.Identity;
-using CMS.Core;
-using Kentico.Content.Web.Mvc.Routing;
+﻿using Kentico.Content.Web.Mvc.Routing;
 using Kentico.PageBuilder.Web.Mvc;
 using Kentico.Web.Mvc;
-using Kentico.Xperience.AzureStorage;
-using Kickstart;
+
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using System;
+
+using Kickstart;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Enable desired Kentico Xperience features
 builder.Services.AddKentico(features =>
@@ -40,6 +39,7 @@ app.UseStaticFiles();
 app.UseCookiePolicy();
 
 app.UseAuthentication();
+
 
 app.UseKentico();
 

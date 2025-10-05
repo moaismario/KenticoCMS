@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.navigationitem>
+  <ContentItemDataCommonDataID>
+    <GUID>30ef3040-e007-41e2-aef3-0e39986156a4</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>ContactUsLink-02fghgv7</CodeName>
+      <GUID>9026bfe6-fa10-48da-941b-ab2a44815533</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>2c1ee5e8-51e4-40b6-84c1-2506fb3f2a3d</ContentItemDataGUID>
+  <NavigationItemTarget>
+    <![CDATA[[{"Identifier":"75e3a04e-6afa-41a7-9c52-3d5cf50c27b9"}]]]>
+  </NavigationItemTarget>
+  <NavigationItemTitle>Contact us</NavigationItemTitle>
+</contentitemdata.kickstart.navigationitem>
